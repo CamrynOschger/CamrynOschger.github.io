@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Crime",
+"features": [
+{ "type": "Feature", "properties": { "id": 4, "road": "Grosvenor", "lat": -25.749778, "long": 28.237452 }, "geometry": { "type": "Point", "coordinates": [ 28.237452, -25.749778 ] } },
+{ "type": "Feature", "properties": { "id": 3, "road": "Burnett", "lat": -25.750607, "long": 28.236806 }, "geometry": { "type": "Point", "coordinates": [ 28.236806, -25.750607 ] } },
+{ "type": "Feature", "properties": { "id": 2, "road": "Burnett", "lat": -25.750465, "long": 28.235878 }, "geometry": { "type": "Point", "coordinates": [ 28.235878, -25.750465 ] } },
+{ "type": "Feature", "properties": { "id": 1, "road": "Grosvenor", "lat": -25.750897, "long": 28.237651 }, "geometry": { "type": "Point", "coordinates": [ 28.237651, -25.750897 ] } },
+{ "type": "Feature", "properties": { "id": 8, "road": "Grosvenor", "lat": -25.752733, "long": 28.237866 }, "geometry": { "type": "Point", "coordinates": [ 28.237866, -25.752733 ] } },
+{ "type": "Feature", "properties": { "id": 7, "road": "Hilda", "lat": -25.752613, "long": 28.235332 }, "geometry": { "type": "Point", "coordinates": [ 28.235332, -25.752613 ] } },
+{ "type": "Feature", "properties": { "id": 6, "road": "Hilda", "lat": -25.751062, "long": 28.235199 }, "geometry": { "type": "Point", "coordinates": [ 28.235199, -25.751062 ] } },
+{ "type": "Feature", "properties": { "id": 5, "road": "Burnett", "lat": -25.750771, "long": 28.234404 }, "geometry": { "type": "Point", "coordinates": [ 28.234404, -25.750771 ] } },
+{ "type": "Feature", "properties": { "id": 11, "road": "Burnett", "lat": -25.750286, "long": 28.239257 }, "geometry": { "type": "Point", "coordinates": [ 28.239257, -25.750286 ] } },
+{ "type": "Feature", "properties": { "id": 10, "road": "Park", "lat": -25.748898, "long": 28.238661 }, "geometry": { "type": "Point", "coordinates": [ 28.238661, -25.748898 ] } },
+{ "type": "Feature", "properties": { "id": 9, "road": "Park", "lat": -25.749018, "long": 28.236309 }, "geometry": { "type": "Point", "coordinates": [ 28.236309, -25.749018 ] } }
+]
+}
