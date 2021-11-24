@@ -1,0 +1,209 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1",
+        "Road": "Prospect",
+        "name": "James",
+        "tel_number": "0756312789"
+      },
+      "geometry": {
+        "coordinates": [
+          28.235306,
+          -25.752098
+        ],
+        "type": "Point"
+      },
+      "id": "3659b924b027e5896ddec51f9cbc2ffb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6",
+        "Road": "Hilda",
+        "name": "Nickolas",
+        "tel_number": "0845983675"
+      },
+      "geometry": {
+        "coordinates": [
+          28.235472,
+          -25.752762
+        ],
+        "type": "Point"
+      },
+      "id": "3b4635a1acf5fc07c0387d82bd1b548e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8",
+        "Road": "South",
+        "name": "Bandile",
+        "tel_number": "04985235"
+      },
+      "geometry": {
+        "coordinates": [
+          28.236557,
+          -25.753366
+        ],
+        "type": "Point"
+      },
+      "id": "459b2be30489d5f57a2e230cb3926551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5",
+        "Road": "Burnett",
+        "name": "Frederick",
+        "tel_number": 825698412
+      },
+      "geometry": {
+        "coordinates": [
+          28.236449,
+          -25.750666
+        ],
+        "type": "Point"
+      },
+      "id": "46bb67cf309d05567abe71251e5964f6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9",
+        "Road": "Festival",
+        "name": "Arthur",
+        "tel_number": "0725896341"
+      },
+      "geometry": {
+        "coordinates": [
+          28.232863,
+          -25.750957
+        ],
+        "type": "Point"
+      },
+      "id": "5180c9815aa10e40581b090ae2eb7865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4",
+        "Road": "Prospect",
+        "name": "Shawn",
+        "tel_number": "0605984123"
+      },
+      "geometry": {
+        "coordinates": [
+          28.237625,
+          -25.752009
+        ],
+        "type": "Point"
+      },
+      "id": "62e03d1e2184e4a9b40a9c11b644d67d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12",
+        "Road": "Burnett",
+        "name": "Sabelo",
+        "tel_number": "+27795638525"
+      },
+      "geometry": {
+        "coordinates": [
+          28.237965,
+          -25.75027
+        ],
+        "type": "Point"
+      },
+      "id": "6bcceaa0079763c4a61cfcb5693ed714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10",
+        "Road": "Festival",
+        "name": "Victor",
+        "tel_number": "0765983602"
+      },
+      "geometry": {
+        "coordinates": [
+          28.233062,
+          -25.752046
+        ],
+        "type": "Point"
+      },
+      "id": "703c34da5f5a5d5d0e6446beafb50c23"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7",
+        "Road": "South",
+        "name": "Michael",
+        "tel_number": "0789516387"
+      },
+      "geometry": {
+        "coordinates": [
+          28.235124,
+          -25.753441
+        ],
+        "type": "Point"
+      },
+      "id": "add8095139847dc365c72a261b5161c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11",
+        "Road": "Burnett",
+        "name": "Sinenkosi",
+        "tel_number": "+27845263515"
+      },
+      "geometry": {
+        "coordinates": [
+          28.234056,
+          -25.750502
+        ],
+        "type": "Point"
+      },
+      "id": "c1677681bd1839466f0a42cae315f6a5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2",
+        "Road": "Burnett",
+        "name": "Cyrus",
+        "tel_number": "0892683575"
+      },
+      "geometry": {
+        "coordinates": [
+          28.235174,
+          -25.750591
+        ],
+        "type": "Point"
+      },
+      "id": "cbfae4bb30831e8170a7a40c0db783bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3",
+        "Road": "Prospect",
+        "name": "Siyabonga",
+        "tel_number": "0742598765"
+      },
+      "geometry": {
+        "coordinates": [
+          28.236524,
+          -25.752053
+        ],
+        "type": "Point"
+      },
+      "id": "f8b97afb42a51bcffecc42aba3d13fb3"
+    }
+  ],
+  "type": "FeatureCollection"
+}
